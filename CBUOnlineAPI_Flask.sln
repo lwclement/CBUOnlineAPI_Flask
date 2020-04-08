@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CBUOnlineAPI_Flask", "CBUOnline_Flask\CBUOnlineAPI_Flask.pyproj", "{33E76458-002D-45E4-8B92-13809F6485B1}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CBUOnlineAPI_Flask", "CBUOnlineAPI_Flask\CBUOnlineAPI_Flask.pyproj", "{33E76458-002D-45E4-8B92-13809F6485B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
