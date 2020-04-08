@@ -40,6 +40,7 @@
     <Folder Include="CBUOnline_Flask\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Readme.txt" />
     <Content Include="requirements.txt" />
     <Content Include="CBUOnline_Flask\static\content\bootstrap.css" />
     <Content Include="CBUOnline_Flask\static\content\bootstrap.min.css" />
