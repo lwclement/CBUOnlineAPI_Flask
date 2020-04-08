@@ -3,7 +3,7 @@ This script runs the CBUOnline_Flask application using a development server.
 """
 
 from os import environ
-from CBUOnline_Flask import app
+from CBUOnlineAPI_Flask import app
 
 if __name__ == '__main__':
     HOST = environ.get('SERVER_HOST', 'localhost')

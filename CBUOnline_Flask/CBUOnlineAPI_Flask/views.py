@@ -4,7 +4,7 @@ Routes and views for the flask application.
 
 from datetime import datetime
 from flask import render_template
-from CBUOnline_Flask import app
+from CBUOnlineAPI_Flask import app
 
 @app.route('/')
 @app.route('/home')
